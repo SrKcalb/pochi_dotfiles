@@ -1,0 +1,13 @@
+theme = "Catpuccin"
+font-family = "JetBrainsMono Nerd Font"
+font-size = 13
+maximize = false
+gtk-titlebar = false
+keybind = ctrl+q=ignore
+background-image=/home/fish/Pictures/pics/fetch4.jpeg
+background-image-opacity=0.01
+background-image-position=bottom-right
+background-blur=true
+background-image-fit=none
+confirm-close-surface=false
+scrollbar=never
